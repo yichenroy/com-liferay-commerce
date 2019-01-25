@@ -18,6 +18,7 @@ import aQute.bnd.annotation.metatype.Meta;
 
 import com.liferay.commerce.account.constants.CommerceAccountConstants;
 import com.liferay.portal.configuration.metatype.annotations.ExtendedObjectClassDefinition;
+import java.util.Map;
 
 /**
  * @author Alessio Antonio Rendina
